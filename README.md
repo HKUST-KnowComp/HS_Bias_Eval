@@ -30,7 +30,7 @@ FastText multilingual
 How to run the code
 -------------------
 -------------------
-python run_bias_metrics.py --language german --dataset /path/to/dataset.csv --metric b1 --embeds_path path/to/embeddings --topic_number x --word_number y
+python run_bias_metrics.py --language language_name --dataset /path/to/dataset.csv --metric b1 --embeds_path path/to/embeddings --topic_number x --word_number y
 
 Experiments
 -----------
