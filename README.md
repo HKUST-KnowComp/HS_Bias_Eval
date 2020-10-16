@@ -16,6 +16,22 @@ Description
 ----------
 This code uses topic models and semantic similarity to compute bias in hate speech datasets. 
 
+Requirements
+-----------
+-----------
+Python 3.6
+
+Gensim
+
+Babylon embeddings for the tested language 
+
+FastText multilingual
+
+How to run the code
+-------------------
+-------------------
+python run_bias_metrics.py --language german --dataset /path/to/dataset.csv --metric b1 --embeds_path path/to/embeddings --topic_number x --word_number y
+
 Experiments
 -----------
 -----------
