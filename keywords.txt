@@ -13,7 +13,7 @@ waseem_hoy_gender_keywords = ['mkr', 'feminazi', 'women', 'victim','womenagainst
 
 PORTUGUESE
 ----------
-keywords_portuguese = ['discurso', 'odio', 'fufas', 'sapatao','lugardemulherenacozinha' ] #changed 'discurso de odio' to 'discurso' 'odio'
+keywords_portuguese = ['discurso', 'odio', 'fufas', 'sapatao','lugardemulherenacozinha' ]
 
 ITALIAN
 -------
@@ -21,7 +21,7 @@ keywords_italian = ['invadere', 'invasione', 'basta', 'fuori', 'comunist', 'afri
 
 GERMAN
 ------
-keywords_german = ['pack', 'aslyanten', 'wehrdich', 'krimmigranten','rapefugees', 'islamfaschisten', 'refugeesnotwelcome', 'islamisierung', 'asylanteninvasion', 'scharia'] #changed the hashtags into words
+keywords_german = ['pack', 'aslyanten', 'wehrdich', 'krimmigranten','rapefugees', 'islamfaschisten', 'refugeesnotwelcome', 'islamisierung', 'asylanteninvasion', 'scharia'] 
 
 FRENCH
 ------
