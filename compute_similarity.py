@@ -3,11 +3,11 @@ import os
 import numpy as np
 from utils import *
 from constants import   *
+import fastText_multilingual
+from fastText_multilingual import fasttext
+from fastText_multilingual.fasttext import FastVector
 
-def get_sim1_fasttext(dictionary, list1, list2):
-  import fastText_multilingual
-  from fastText_multilingual import fasttext
-  from fastText_multilingual.fasttext import FastVector
+def get_sim1_fasttext(dictionary, list1, list2): 
   score = 0.0
   final_score = 0.0
   similarity = 0.0
@@ -27,9 +27,6 @@ def get_sim1_fasttext(dictionary, list1, list2):
   return final_score/float(len(list1))
 
 def get_sim2_fasttext(dictionary, list1, list2):
-  import fastText_multilingual
-  from fastText_multilingual import fasttext
-  from fastText_multilingual.fasttext import FastVector
   score = 0.0
   similarity =  0.0
   final_score = 0.0
