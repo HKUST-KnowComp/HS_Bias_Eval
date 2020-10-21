@@ -16,6 +16,8 @@ Description
 ----------
 This code uses topic models and semantic similarity to compute bias in hate speech datasets. 
 
+You can preview our paper here: https://nedjmaou.github.io/nousidhoum_et_al_emnlp2020_hs_bias_eval.pdf
+
 Requirements
 -----------
 -----------
