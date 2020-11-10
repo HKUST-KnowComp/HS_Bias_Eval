@@ -1,25 +1,13 @@
-This is the code and data of our paper:
-        
-        @inproceedings{ousidhoum-etal-bias-eval-multilingual-hate-speech-2020,
-    		   title = "Comparative Evaluation of Label-Agnostic Selection Bias in Multilingual Hate Speech Datasets",        
-                       author = "Nedjma Ousidhoum,
-            		         Yangqiu Song,
-            		         Dit-Yan Yeung",
-                       booktitle = "Proceedings of EMNLP",
-                       year = "2020",
-                       publisher =	"Association for Computational Linguistics",
-	                   }
-  
+This is the code and data of our EMNLP 2020 paper: "Comparative Evaluation of Label-Agnostic Selection Bias in Mutilingual Hate Speech Datasets".
 
 Description
 ----------
 ----------
-This code uses topic models and semantic similarity to compute bias in hate speech datasets. 
+This code uses topic models and semantic similarity to compute selection bias in hate speech datasets. 
 
-You can preview our paper here: https://nedjmaou.github.io/nousidhoum_et_al_emnlp2020_hs_bias_eval.pdf
+You can read our paper here: https://www.aclweb.org/anthology/2020.emnlp-main.199/
 
 Requirements
------------
 -----------
 Python 3.6
 
