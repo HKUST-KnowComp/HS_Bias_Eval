@@ -1,4 +1,4 @@
-This is the code and data of our EMNLP 2020 paper: "Comparative Evaluation of Label-Agnostic Selection Bias in Mutilingual Hate Speech Datasets".
+This is the code we used for our EMNLP 2020 paper: "Comparative Evaluation of Label-Agnostic Selection Bias in Mutilingual Hate Speech Datasets".
 
 Description
 ----------
